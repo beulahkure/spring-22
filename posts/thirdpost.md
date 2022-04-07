@@ -1,6 +1,6 @@
 ---
-title: This is my third post.
-description: This is a post on My Blog about win-win survival strategies.
+title: International Travel.
+description: What you need have and what what you need to know.
 date: 2018-08-24
 tags:
   - second tag
