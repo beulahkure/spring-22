@@ -1,6 +1,6 @@
 ---
-title: This is my second post.
-description: This is a post on My Blog about leveraging agile frameworks.
+title: Puppies.
+description: All you need to know about getting a new puppy.
 date: 2018-07-04
 tags:
   - number 2
