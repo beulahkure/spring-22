@@ -1,6 +1,6 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
+title: Wineries.
+description: All you need to know about Wineries!
 date: 2018-05-01
 tags:
   - another tag
